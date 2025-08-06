@@ -24,4 +24,8 @@
     <ProjectReference Include="..\Aku_Software_Blog.EntityLayer\Aku_Software_Blog.EntityLayer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ValudationRules\" />
+  </ItemGroup>
+
 </Project>
